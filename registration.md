@@ -32,7 +32,7 @@ The closing date for applications is {{ site.registration_closes_date }}.
 </div>
 
 The registration is open to all students, postdocs, and all problem-solvers.
-Join our virtual hackathon and use your intellect and energy to make a difference. We need YOU to help solve urgent societal problems in materials and chemistry 🌟
+Join our virtual hackathon and use your intellect and energy to make a difference.
 
 Prior to the hackathon, this event will require that you think of problems you might want to solve and start forming teams. 
-During the hackathon, the organizers will be available to support you. 
+
