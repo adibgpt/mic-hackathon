@@ -11,8 +11,8 @@ mailbox_address:
 description: |
   The LLM March Madness Materials / Chemistry Hackathon is a virtual hackathon designed to explore and showcase innovative applications of large language models in the fields of materials science and chemistry.
 
-url: "https://kaliningroup.github.io/mic-hackathon.github.io/"
-github_repo: https://kaliningroup.github.io/mic-hackathon.github.io/
+url: "https://github.com/KalininGroup"
+github_repo: Kalinin Group at UT Knoxville
 
 theme: minima
 
