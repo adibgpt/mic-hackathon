@@ -21,10 +21,9 @@ Submit projects/problems/datasets.
 | 09:00 | Welcome  |
 | 09:05 | Speaker: Sergei V. Kalinin (University of Tennessee, Knoxville) \| *ML across Microscopy Workflow* |
 | 09:45 | Speaker: Rama K. Vasudevan (Oak Ridge National Laboratory) \| *Ecosystems for Microscopy* |
-| 10:30 | Speaker: TBD (Vendor Slot) |
-| 11:15 | Speaker: TBD (Vendor Slot) |
-<!-- | 12:00 | Team-building  |
-| 13:00 | End of Day 1 | -->
+| 10:30 | Speaker: TBD  |
+| 11:15 | Speaker: TBD  |
+
 
 ### Day 2: Dec 17
 
@@ -34,7 +33,7 @@ Submit projects/problems/datasets.
 | 09:10 | Breakout (Breakout Rooms A-G) |
 | 12:00 | Project showcase and judging (Poster Rooms A-B) |
 | 12:55 | Closing remarks and takeaways |
-| 13:00 | End of Day 2 |
+| 13:00 | End |
 
 ### Post-hackathon
 Preparation of scholarly article
