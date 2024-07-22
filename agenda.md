@@ -2,36 +2,42 @@
 title: Hackathon agenda 🗓️
 menu_title: Agenda
 menu_icon: clock
-event_status:
- - soon
- - now
 ---
 
-## Now - Mar 29: Brainstorm, build, team
+## Nov 1
 
-Brainstorm, build, team up.
+Submit projects/problems/datasets.
 
-<!-- {:.agenda} -->
+1. Use [Form link coming soon] or send an email to [sergei2@utk.edu](mailto:sergei2@utk.edu) with the subject line "Microscopy Hackathon Project Submission".
+2. Ensure your data is open and remains open under an appropriate license.
 
+## Dec 16 - Dec 17
 
-## Day 1: Mar 29
-
-Live Hackathon Day! 💻 Teams will be coordinating and there will be centrally run live sessions. Video submissions due!
-
-{:.agenda}
-<!-- Time (BST)    | Activity | Where to go
-------------- | -------- | -----------
-09:15 – 09:30 | Zoom meeting opens for informal networking | Zoom main room
-09:30 – 10:00 | **Welcome talk**<br>Speaker name | Zoom main room
-10:00 – 11:55 | **Breakout groups**<br>Recap and continue working on projects | Zoom breakout rooms
-12:00 – 12:30 | **Yoga**<br>Take some time away from your keyboard | Zoom main room
-12:30 – 13:30 | Lunch break |
-13:30 – 16:30 | **Breakout groups**<br>Continue working on projects | Zoom breakout rooms
-16:30 – 17:00 | **End of day tidy-up**<br>Write up<br>Commit your changes to GitHub<br>Tidy Group Workspace | Zoom breakout rooms
-17:00 – 17:25 | **Group updates**<br>90 seconds per group<br>Zero or one slide 😊<br>How things are going; what problems you have faced | Zoom main room
-17:25 – 17:30 | **Close of day** | Zoom main room -->
+### Day 1: Dec 16
 
 
-## Day 2: Mar 30
+| Time  | Activity |
+|-------|----------|
+| 09:00 | Welcome  |
+| 09:05 | Speaker: Sergei V. Kalinin (University of Tennessee, Knoxville) \| *ML across Microscopy Workflow* |
+| 09:45 | Speaker: Rama K. Vasudevan (Oak Ridge National Laboratory) \| *Ecosystems for Microscopy* |
+| 10:30 | Speaker: TBD (Vendor Slot) |
+| 11:15 | Speaker: TBD (Vendor Slot) |
+<!-- | 12:00 | Team-building  |
+| 13:00 | End of Day 1 | -->
 
-Live session to announce prizes.
+### Day 2: Dec 17
+
+| Time  | Activity |
+|-------|----------|
+| 09:00 | Welcome |
+| 09:10 | Breakout (Breakout Rooms A-G) |
+| 12:00 | Project showcase and judging (Poster Rooms A-B) |
+| 12:55 | Closing remarks and takeaways |
+| 13:00 | End of Day 2 |
+
+### Post-hackathon
+Preparation of scholarly article
+<!-- Preparation of scholarly article.[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}
+
+[faq]: {{ site.baseurl }}{% link faq.md %} -->
