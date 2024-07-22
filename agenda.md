@@ -37,6 +37,4 @@ Submit projects/problems/datasets.
 
 ### Post-hackathon
 Preparation of scholarly article
-<!-- Preparation of scholarly article.[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}
 
-[faq]: {{ site.baseurl }}{% link faq.md %} -->
