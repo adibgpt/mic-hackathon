@@ -22,7 +22,7 @@ Hackathon Event which will take part from {{ site.event_date }}.
   <a class="btn disabled">Registration opens soon</a>
 {% endif %}
 {% if site.registration_status == "open" or site.registration_status == "demo" %}
-  [Register now](){:.btn target="_blank"}
+  [Register now](https://docs.google.com/forms/d/e/1FAIpQLScRwGIpd-Um26nhHcYuJvjmmtkgnv_s36ryoD5jpukNbcGx2Q/viewform){:.btn target="_blank"}
 {% endif %}
 {% if site.registration_status == "closed" or site.registration_status == "demo" %}
   <a class="btn disabled">Registration has closed</a>
