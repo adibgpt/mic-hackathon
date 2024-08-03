@@ -26,7 +26,7 @@ The closing date for applications is November 1 2024.
             <dd>
                 Applications open for participants<br>
                 {% if site.registration_status == 'open' %}
-                    <a href="{{ site.baseurl }}{% link registration.md %}" class="btn">Register now</a>
+                    <a href="{{ site.baseurl }}{% link registration.md %}" class="btn">Registration page</a>
                 {% elsif site.registration_status == 'closed' %}
                     <a class="btn disabled">Registration has closed</a>
                 {% elsif site.registration_status == 'soon' %}
