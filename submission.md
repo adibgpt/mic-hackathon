@@ -46,10 +46,10 @@ Submissions to this topic can vary from manual analysis of microscopy workflows,
 
 ### Topic 7: Grand Challenge Problems
 
-- Domain assembly (Richard)
-- Atomic motion (Sergei)
+- Domain assembly 
+- Atomic motion 
 
 ### Topic 8: General
 
-This category is for projects that don’t fit into the special topics listed above but are relevant for microscopy in all its embodiments. Projects in this context are welcome! If you’re unsure about a project, feel free to reach out to sergei2@utk.edu.
+This category is for projects that don’t fit into the special topics listed above but are relevant for microscopy in all its embodiments. Projects in this context are **welcome!** If you’re unsure about a project, feel free to reach out to sergei2@utk.edu.
 
