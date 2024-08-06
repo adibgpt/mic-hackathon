@@ -22,7 +22,6 @@ The closing date for applications is November 1 2024.
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
     <dl>
         {% if site.registration_status == "soon" or site.registration_status == "open" or site.registration_status == "demo" %}
-            <dt>{{ site.registration_opens_date }}</dt>
             <dd>
                 Applications open for participants<br>
                 {% if site.registration_status == 'open' %}
