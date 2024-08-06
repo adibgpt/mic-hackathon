@@ -65,6 +65,8 @@ Will be announced soon!
 
 ## Sponsors 
 
-- [AI Tennessee Initiative](https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/) [Gold sponsors]
+- [AI Tennessee Initiative](https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/) [Gold sponsor]
 
-- [zyvexlabs](https://www.zyvexlabs.com/) [Partners]
+- [zyvexlabs](https://www.zyvexlabs.com/) [Partner]
+
+- Please get in touch if you would like to be a sponsor at [sergei2@utk.edu](mailto:sergei2@utk.edu)
