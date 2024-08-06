@@ -54,6 +54,20 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
+            <img alt="Yongtao Liu" src="">
+        </td>
+        <td>
+            <strong>Yongtao Liu</strong>
+            <span class="profile-links">
+                <a title="GitHub" href=""><i class="bi bi-github"></i></a>
+                <a title="Twitter" href=""><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>Oak Ridge National Lab
+            <br>R&D Staff
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img alt="Yu(Richard) Liu" src="">
         </td>
         <td>
@@ -64,6 +78,20 @@ menu_icon: globe2
                 <a title="Twitter" href=""><i class="bi bi-twitter"></i></a>
             </span>
             <br>University of Tennessee
+            <br>Postdoctoral Associate
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="Boris Slautin" src="">
+        </td>
+        <td>
+            <strong>Boris Slautin</strong>
+            <span class="profile-links">
+                <a title="GitHub" href=""><i class="bi bi-github"></i></a>
+                <a title="Twitter" href=""><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>University of Duisburg-Essen
             <br>Postdoctoral Associate
         </td>
     </tr>
@@ -81,13 +109,14 @@ menu_icon: globe2
             <br>PhD Student
         </td>
     </tr>
+
 </table>
 
 ## Acknowledgments
 
 We would like to thank the following people and organizations for their contributions:
 
-- Ondrej Dyck, Chris Nelson, and Richard Liu for making their datasets available.
-- Our sponsors (to be announced).
+- Ondrej Dyck, Yongtao Liu, Chris Nelson, and Richard Liu for making their datasets available.
+- Our sponsors [AI Tennessee Initiative](https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/), [zyvexlabs](https://www.zyvexlabs.com/).
 - Inspiration from [LLM in Chemistry and Materials hackathon](https://materials-data-facility.github.io/llm-hackathon/registration/) and [BO hackathon](https://ac-bo-hackathon.github.io/)
 

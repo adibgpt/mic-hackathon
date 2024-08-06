@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generative AI and ML in Microscopy Hackathon
+title: AI and ML for Microscopy, Hackathon
 menu_title: Home
 menu_icon: house-door
 ---
@@ -66,4 +66,6 @@ Will be announced soon!
 
 ## Sponsors 
 
-- TBA
+- [AI Tennessee Initiative](https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/) [Gold sponsors]
+
+- [zyvexlabs](https://www.zyvexlabs.com/) [Partners]
