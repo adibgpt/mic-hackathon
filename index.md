@@ -69,6 +69,8 @@ Will be announced soon!
 
 - [The Molecular Foundry](https://foundry.lbl.gov/) [Partner]
 
+- [National Renewable Energy Laboratory](https://www.nrel.gov/) [Partner]
+
 - [zyvexlabs](https://www.zyvexlabs.com/) [Partner]
 
 - Please get in touch if you would like to be a sponsor at [sergei2@utk.edu](mailto:sergei2@utk.edu)

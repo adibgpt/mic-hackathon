@@ -54,6 +54,21 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
+            <img alt="Steven R Spurgeon" src="">
+        </td>
+        <td>
+            <strong>Steven R Spurgeon</strong>
+            <span class="profile-links">
+                <a title="Website" href=""><i class="bi bi-globe2"></i></a>
+                <a title="GitHub" href=""><i class="bi bi-github"></i></a>
+                <a title="Twitter" href=""><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>National Renewable Energy Laboratory, Golden, CO
+            <br>Senior Materials Data Scientist
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img alt="Yongtao Liu" src="">
         </td>
         <td>
@@ -117,6 +132,6 @@ menu_icon: globe2
 We would like to thank the following people and organizations for their contributions:
 
 - Ondrej Dyck, Yongtao Liu, Chris Nelson, and Richard Liu for making their datasets available.
-- Our sponsors [AI Tennessee Initiative](https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/), [zyvexlabs](https://www.zyvexlabs.com/), [The Molecular Foundry](https://foundry.lbl.gov/) [Partner].
+- Our sponsors [AI Tennessee Initiative](https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/), [zyvexlabs](https://www.zyvexlabs.com/), [The Molecular Foundry](https://foundry.lbl.gov/) [Partner], [National Renewable Energy Laboratory](https://www.nrel.gov/) [Partner].
 - Inspiration from [LLM in Chemistry and Materials hackathon](https://materials-data-facility.github.io/llm-hackathon/registration/) and [BO hackathon](https://ac-bo-hackathon.github.io/)
 
