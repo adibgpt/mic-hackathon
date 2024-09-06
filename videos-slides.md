@@ -12,7 +12,7 @@ event_status:
 <ul class="grid">
 
 <li class="video" markdown="1">
-<iframe src="https://drive.google.com/file/d/1tffP_YrcegKsS_TUaInsmQRsNaBwJe-O/preview" width="660" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tffP_YrcegKsS_TUaInsmQRsNaBwJe-O/preview" width="720" height="400" allow="autoplay"></iframe>
 
 **Featured Speaker:**  
 [Dr. Rama K. Vasudevan](https://www.ornl.gov/staff-profile/rama-k-vasudevan) 
