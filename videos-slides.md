@@ -15,7 +15,7 @@ event_status:
 <iframe src="https://drive.google.com/file/d/1tffP_YrcegKsS_TUaInsmQRsNaBwJe-O/preview" width="960" height="540" allow="autoplay"></iframe>
 
 **Featured Speaker:**  
-[Dr. Rama K. Vasudevan](https://www.ornl.gov/staff-profile/rama-k-vasudevan) 
+[Dr. Rama K. Vasudevan](https://www.ornl.gov/staff-profile/rama-k-vasudevan), 
 Group Leader, Data NanoAnalytics Group  
 Center for Nanophase Materials Sciences (CNMS)  
 Oak Ridge National Laboratory  
