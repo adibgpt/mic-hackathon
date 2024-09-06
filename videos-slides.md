@@ -10,7 +10,7 @@ event_status:
 <ul class="grid">
 
 <li class="video" markdown="1">
-<iframe src="https://drive.google.com/file/d/1teGflbk0LIHiXHpchN8iOD9o8lsmQGM3/preview" width="560" height="315" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tffP_YrcegKsS_TUaInsmQRsNaBwJe-O/preview" width="560" height="315" allow="autoplay"></iframe>
 
 
 </li>
