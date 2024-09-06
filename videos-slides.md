@@ -7,39 +7,12 @@ event_status:
 ---
 
 ## Talks
-
 <ul class="grid">
 
 <li class="video" markdown="1">
-{% include youtube.html video="lIanN0DI9R8" title="Best practices for reproducible research – Thinking in Spreadsheets" %}
+<iframe src="https://drive.google.com/file/d/1teGflbk0LIHiXHpchN8iOD9o8lsmQGM3/preview" width="560" height="315" allow="autoplay"></iframe>
 
-In this talk given at the CMIP6 Data Hackathon 2021, Jean Golding Institute
-data scientist **James Thomas** gives an overview of some of the best
-practices to follow when coding for reproducible research.
-</li>
-
-<li class="video" markdown="1">
-{% include youtube.html video="lIanN0DI9R8" title="Another video" %}
-
-Another video...
-</li>
-
-</ul>
-
-## Project presentations
-
-<ul class="grid">
-
-<li class="video" markdown="1">
-{% include youtube.html video="lIanN0DI9R8" title="Project 1 ..." %}
-
-Project description...
-</li>
-
-<li class="video" markdown="1">
-{% include youtube.html video="lIanN0DI9R8" title="Project 2 ..." %}
-
-Another video...
+Interview
 </li>
 
 </ul>
