@@ -73,4 +73,6 @@ Will be announced soon!
 
 - [zyvexlabs](https://www.zyvexlabs.com/) [Partner]
 
+- [PNNL](https://www.pnnl.gov/) [Partner]
+
 - Please get in touch if you would like to be a sponsor at [sergei2@utk.edu](mailto:sergei2@utk.edu)
