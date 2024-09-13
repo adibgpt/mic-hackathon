@@ -24,8 +24,8 @@ header_pages:
   # - projects.md
   - submission.md
   - resources.md
-  - about.md
   - videos-slides.md
+  - about.md
 
 # Event status
 #   soon = event is yet to happen
