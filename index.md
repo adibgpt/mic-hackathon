@@ -64,8 +64,9 @@ Will be announced soon!
 {% endif %}
 
 ## Sponsors 
-
 - [AI Tennessee Initiative](https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/) [Gold sponsor]
+
+- [Office of Naval Research](https://www.onr.navy.mil/) [Gold sponsor]
 
 - [The Molecular Foundry](https://foundry.lbl.gov/) [Partner]
 
