@@ -131,7 +131,6 @@ menu_icon: globe2
 
 We would like to thank the following people and organizations for their contributions:
 
-- Ondrej Dyck, Yongtao Liu, Chris Nelson, and Richard Liu for making their datasets available.
--  [AI Tennessee Initiative](https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/), Our sponsors [Office of Naval Research](https://www.onr.navy.mil/),[zyvexlabs](https://www.zyvexlabs.com/), [The Molecular Foundry](https://foundry.lbl.gov/) [Partner], [National Renewable Energy Laboratory](https://www.nrel.gov/) [Partner], [Pacific Northwest National Laboratory](https://www.pnnl.gov/) [Partner].
+- Our sponsors and partners.
 - Inspiration from [LLM in Chemistry and Materials hackathon](https://materials-data-facility.github.io/llm-hackathon/registration/) and [BO hackathon](https://ac-bo-hackathon.github.io/)
-
+- Ondrej Dyck, Yongtao Liu, Chris Nelson, and Richard Liu for making their datasets available.
