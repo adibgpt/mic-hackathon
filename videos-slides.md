@@ -69,7 +69,7 @@ University of Toronto
 [Yu(Richard) Liu](https://scholar.google.com/citations?user=f8aS9_0AAAAJ&hl=en), [Postdoctoral Associate at Kalinin group](https://ae-spm.utk.edu/),
 University of Tennessee, Knoxville  
 
-[Utkarsh Pratius](https://github.com/utkarshp1161), 
+[Utkarsh Pratiush](https://github.com/utkarshp1161), 
 [PhD Candidate in Kalinin group](https://ae-spm.utk.edu/),
 University of Tennessee, Knoxville  
 </li>
