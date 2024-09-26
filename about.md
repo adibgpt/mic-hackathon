@@ -121,7 +121,7 @@ menu_icon: globe2
                 <a title="Twitter" href=""><i class="bi bi-twitter"></i></a>
             </span>
             <br>University of Tennessee
-            <br>PhD Student
+            <br>PhD Candidate
         </td>
     </tr>
 
