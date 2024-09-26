@@ -63,7 +63,7 @@ Will be announced soon!
 
 {% endif %}
 
-##  Gold Sponsors 
+##  Gold Sponsor 
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/">
@@ -74,7 +74,8 @@ Will be announced soon!
     </a>
 </div>
 
-## Silver Sponsors
+## Silver Sponsor
+
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://www.thermofisher.com/">
         <img src="./assets/tf_logo.png" alt="ThermoFisher scientific" style="width:200px;">
@@ -102,4 +103,4 @@ Will be announced soon!
 </div>
 
 
-- Please get in touch if you would like to be a sponsor at [sergei2@utk.edu](mailto:sergei2@utk.edu)
+## Please get in touch if you would like to be a sponsor at [sergei2@utk.edu](mailto:sergei2@utk.edu)
