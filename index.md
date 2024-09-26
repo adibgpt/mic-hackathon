@@ -63,17 +63,43 @@ Will be announced soon!
 
 {% endif %}
 
-## Sponsors 
-- [AI Tennessee Initiative](https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/) [Gold sponsor]
+##  Gold Sponsors 
 
-- [Office of Naval Research](https://www.onr.navy.mil/) [Gold sponsor]
+<div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/">
+        <img src="./assets/ai_tenn_logo.png" alt="AI Tennessee Initiative" style="width:200px; margin-right: 20px;">
+    </a>
+    <a href="https://www.onr.navy.mil/">
+        <img src="./assets/ONR.png" alt="Office of Naval Research" style="width:400px; margin-left: 20px;">
+    </a>
+</div>
 
-- [The Molecular Foundry](https://foundry.lbl.gov/) [Partner]
+## Silver Sponsors
+<div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://www.thermofisher.com/">
+        <img src="./assets/tf_logo.png" alt="ThermoFisher scientific" style="width:200px;">
+    </a>
+</div>
 
-- [National Renewable Energy Laboratory](https://www.nrel.gov/) [Partner]
+## Partners
 
-- [zyvexlabs](https://www.zyvexlabs.com/) [Partner]
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <a href="https://www.pnnl.gov/">
+        <img src="./assets/pnnl_logo.jpg" alt="Pacific Northwest National Laboratory" style="width:200px;">
+    </a>
+    <a href="https://www.zyvexlabs.com/">
+        <img src="./assets/zyvex_logo.png" alt="Zyvex Labs" style="width:300px;">
+    </a>
+    <a href="https://www.nrel.gov/">
+        <img src="./assets/nrel_logo.png" alt="National Renewable Energy Laboratory" style="width:300px;">
+    </a>
+    <a href="https://foundry.lbl.gov/">
+        <img src="./assets/mf_logo.png" alt="The Molecular Foundry" style="width:300px;">
+    </a>
+    <a href="https://www.ornl.gov/">
+        <img src="./assets/ornl_logo.png" alt="Oak Ridge National Laboratory" style="width:300px;">
+    </a>
+</div>
 
-- [Pacific Northwest National Laboratory](https://www.pnnl.gov/) [Partner]
 
 - Please get in touch if you would like to be a sponsor at [sergei2@utk.edu](mailto:sergei2@utk.edu)

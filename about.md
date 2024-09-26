@@ -9,7 +9,7 @@ menu_icon: globe2
 <table class="team-list">
     <tr>
         <td>
-            <img alt="Sergei Kalinin" src="">
+            <img alt="Sergei Kalinin" src="./assets/svk.png">
         </td>
         <td>
             <strong>Sergei Kalinin</strong>
@@ -24,7 +24,7 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
-            <img alt="Gerd Duscher" src="">
+            <img alt="Gerd Duscher" src="./assets/GD.png">
         </td>
         <td>
             <strong>Gerd Duscher</strong>
@@ -39,7 +39,7 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
-            <img alt="Rama K Vasudevan" src="">
+            <img alt="Rama K Vasudevan" src="./assets/rama.png">
         </td>
         <td>
             <strong>Rama K Vasudevan</strong>
@@ -54,7 +54,7 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
-            <img alt="Steven R Spurgeon" src="">
+            <img alt="Steven R Spurgeon" src="./assets/ss.png">
         </td>
         <td>
             <strong>Steven R Spurgeon</strong>
@@ -69,7 +69,7 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
-            <img alt="Yongtao Liu" src="">
+            <img alt="Yongtao Liu" src="./assets/Yliu.png">
         </td>
         <td>
             <strong>Yongtao Liu</strong>
@@ -83,7 +83,7 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
-            <img alt="Yu(Richard) Liu" src="">
+            <img alt="Yu(Richard) Liu" src="./assets/rliu.png">
         </td>
         <td>
             <strong>Yu(Richard) Liu</strong>
@@ -98,7 +98,7 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
-            <img alt="Boris Slautin" src="">
+            <img alt="Boris Slautin" src="./assets/Boris.png">
         </td>
         <td>
             <strong>Boris Slautin</strong>
@@ -112,7 +112,7 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
-            <img alt="Utkarsh Pratiush" src="">
+            <img alt="Utkarsh Pratiush" src="./assets/up.png">
         </td>
         <td>
             <strong>Utkarsh Pratiush</strong>
