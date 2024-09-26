@@ -67,7 +67,7 @@ Will be announced soon!
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/">
-        <img src="./assets/ai_tenn_logo.png" alt="AI Tennessee Initiative" style="width:200px; margin-right: 20px;">
+        <img src="./assets/ai_tenn_logo.png" alt="AI Tennessee Initiative" style="width:230px; margin-right: 20px;">
     </a>
     <a href="https://www.onr.navy.mil/">
         <img src="./assets/ONR.png" alt="Office of Naval Research" style="width:400px; margin-left: 20px;">
@@ -98,7 +98,7 @@ Will be announced soon!
         <img src="./assets/mf_logo.png" alt="The Molecular Foundry" style="width:300px;">
     </a>
     <a href="https://www.ornl.gov/">
-        <img src="./assets/ornl_logo.png" alt="Oak Ridge National Laboratory" style="width:300px;">
+        <img src="./assets/ornl_logo.png" alt="Oak Ridge National Laboratory" style="width:280px;">
     </a>
 </div>
 
