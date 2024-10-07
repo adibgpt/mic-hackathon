@@ -53,7 +53,7 @@ Prior programming experience is not required, but it is recommended for coding p
 
 ## Logistics
 
-The event will take place in hybrid(virtually and in-person) mode using a combination of **video conferencing** (Zoom) for meetings and seminars, and **discussion forums** (Slack, Miro). Slack, Miro, and Zoom links will be shared upon registration. 
+The event will take place in hybrid(virtual and in-person) mode using a combination of **video conferencing** (Zoom) for meetings and seminars, and **discussion forums** (Slack, Miro). Slack, Miro, and Zoom links will be shared upon registration. 
 
 ## Prizes
 
