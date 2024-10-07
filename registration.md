@@ -15,7 +15,7 @@ We can't wait to see what you build!
 is {{ site.registration_closes_date }}.
 
 <div class="aside" markdown="1">
-This virtual event will require some commitment prior to and including the
+This hybrid event will require some commitment prior to and including the
 Hackathon Event which will take part from {{ site.event_date }}.
 
 {% if site.registration_status == "soon" or site.registration_status == "demo" %}
