@@ -112,6 +112,20 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
+            <img alt="Austin Houston" src="https://raw.githubusercontent.com/KalininGroup/mic-hackathon/main/assets/austin_houston.png">
+        </td>
+        <td>
+            <strong>Austin Houston</strong>
+            <span class="profile-links">
+                <a title="GitHub" href=""><i class="bi bi-github"></i></a>
+                <a title="Twitter" href=""><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>University of Tennessee
+            <br>PhD Candidate(4th year)
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img alt="Utkarsh Pratiush" src="https://raw.githubusercontent.com/KalininGroup/mic-hackathon/main/assets/up.png">
         </td>
         <td>
@@ -121,7 +135,7 @@ menu_icon: globe2
                 <a title="Twitter" href=""><i class="bi bi-twitter"></i></a>
             </span>
             <br>University of Tennessee
-            <br>PhD Candidate
+            <br>PhD Candidate(2nd year)
         </td>
     </tr>
 
