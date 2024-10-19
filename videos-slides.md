@@ -14,10 +14,15 @@ event_status:
 <li class="video" markdown="1">
 <iframe src="https://drive.google.com/file/d/1CeCAz1ksjGs531Y9uVdRvotJdl3TLPl6/preview" width="960" height="540" allow="autoplay"></iframe>
 
-**Featured Speaker:**  
+**Featured Speaker's:**  
 [Dr. Gerd Duscher](https://tickle.utk.edu/mse/faculty/gerd-duscher/), 
-Professor/Director of Microscopy Facilities  
-University of Tennessee
+Professor/Director of Microscopy Facilities,  
+University of Tennessee.
+
+
+[Dr. Sergei V kalinin](https://ae-spm.utk.edu/), 
+Weston Fulton Professor, University of Tennessee. Chief Scientist, AI/ML for Physical Sciences, Pacific Northwest National Laboratory.
+
 
 **Interviewer:**  
 [Courtney Brown](https://cmp.utk.edu/sheryl-sanchez/), Administrative Coordinator
