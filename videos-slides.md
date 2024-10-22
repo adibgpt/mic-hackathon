@@ -11,7 +11,7 @@ event_status:
 <ul class="grid">
 
 <li class="video" markdown="1">
-<iframe src="https://drive.google.com/file/d/1UMLPIn_1EheE5QWdN99B9xpqlGtwlANp/view" width="960" height="540" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1UMLPIn_1EheE5QWdN99B9xpqlGtwlANp/preview" width="960" height="540" allow="autoplay"></iframe>
 
 </li>
 
@@ -24,7 +24,7 @@ event_status:
 <ul class="grid">
 
 <li class="video" markdown="1">
-<iframe src="https://drive.google.com/file/d/1CeCAz1ksjGs531Y9uVdRvotJdl3TLPl6/view" width="960" height="540" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1CeCAz1ksjGs531Y9uVdRvotJdl3TLPl6/preview" width="960" height="540" allow="autoplay"></iframe>
 
 **Featured Speaker's:**  
 [Dr. Gerd Duscher](https://tickle.utk.edu/mse/faculty/gerd-duscher/), 
