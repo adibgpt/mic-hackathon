@@ -6,7 +6,19 @@ event_status:
  - soon
 ---
 
+# Hackathon launch video - 22nd Oct 2024!
 
+<ul class="grid">
+
+<li class="video" markdown="1">
+<iframe src="https://drive.google.com/file/d/1UMLPIn_1EheE5QWdN99B9xpqlGtwlANp/preview" width="960" height="540" allow="autoplay"></iframe>
+
+</li>
+
+</ul>
+
+
+# Interviews:
 ## Interview 1: Machine learning for Microscopy
 
 <ul class="grid">
