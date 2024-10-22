@@ -77,10 +77,10 @@ Will be announced soon!
 ## Silver Sponsor
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://www.thermofisher.com/">
-        <img src="./assets/tf_logo.png" alt="ThermoFisher scientific" style="width:300px;">
+        <img src="./assets/tf_logo.png" alt="ThermoFisher scientific" style="width:250px;">
     </a>
     <a href="https://microscopy.org/">
-        <img src="./assets/msa.png" alt="Microscopy society of America" style="width:300px; margin-left: 20px;">
+        <img src="./assets/msa.png" alt="Microscopy society of America" style="width:360px; margin-left: 20px;">
     </a>
 </div>
 
