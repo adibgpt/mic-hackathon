@@ -11,7 +11,7 @@ menu_icon: house-door
 <div class="lead" markdown="1">
 Participation is FREE and open. Let’s build the future of microscopy together!
 
-The closing date for applications is November 1 2024.
+The closing date for applications is December 16th 2024.
 
 
 
