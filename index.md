@@ -26,10 +26,6 @@ The closing date for applications is December 16th 2024(Note: Only virtual sign 
                 Applications open for participants<br>
                 {% if site.registration_status == 'open' %}
                     <a href="{{ site.baseurl }}{% link registration.md %}" class="btn">Registration page</a>
-                {% elsif site.registration_status == 'closed' %}
-                    <a class="btn disabled">Registration has closed</a>
-                {% elsif site.registration_status == 'soon' %}
-                    <a class="btn disabled">Registration opens soon</a>
                 {% endif %}
             </dd>
         {% endif %}
