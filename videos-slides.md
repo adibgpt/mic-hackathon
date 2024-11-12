@@ -21,6 +21,7 @@ event_status:
 <li class="video" markdown="1">
 <iframe src="https://drive.google.com/file/d/1XkmJOb05aDNNBE2PI-QRvfk1q_mHnM9-/preview" width="960" height="540" allow="autoplay"></iframe>
 
+**Credits: Austin Houston and Utkarsh Pratiush**
 </li>
 
 </ul>

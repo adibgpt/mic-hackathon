@@ -12,7 +12,7 @@ We can't wait to see what you build!
 {% if site.registration_status
 == "soon" or site.registration_status == "demo" %}Registration opens on
 {{ site.registration_opens_date }}.{% endif %} The closing date for applications
-is {{ site.registration_closes_date }} (Note: Only virtual sign ups after: December 2nd).. 
+is {{ site.registration_closes_date }} (Note: Only virtual sign ups after: December 2nd).
 
 <div class="aside" markdown="1">
 This hybrid event will require some commitment prior to and including the
