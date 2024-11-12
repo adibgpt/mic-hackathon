@@ -12,7 +12,7 @@ We can't wait to see what you build!
 {% if site.registration_status
 == "soon" or site.registration_status == "demo" %}Registration opens on
 {{ site.registration_opens_date }}.{% endif %} The closing date for applications
-is {{ site.registration_closes_date }}.
+is {{ site.registration_closes_date }} (Note: Only virtual sign ups after: December 2nd).. 
 
 <div class="aside" markdown="1">
 This hybrid event will require some commitment prior to and including the
@@ -28,7 +28,7 @@ Hackathon Event which will take part from {{ site.event_date }}.
   <a class="btn disabled">Registration has closed</a>
 {% endif %}
 
-The closing date for applications is {{ site.registration_closes_date }}.
+The closing date for applications is {{ site.registration_closes_date }} (Note: Only virtual sign ups after: December 2nd).
 </div>
 
 The registration is open to all students, postdocs, and all problem-solvers.

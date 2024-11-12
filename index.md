@@ -11,7 +11,7 @@ menu_icon: house-door
 <div class="lead" markdown="1">
 Participation is FREE and open. Let’s build the future of microscopy together!
 
-The closing date for applications is December 16th 2024(Note: Only virtual sign ups after: December 2).
+The closing date for applications is December 16th 2024(Note: Only virtual sign ups after: December 2nd).
 
 
 
@@ -53,7 +53,13 @@ Prior programming experience is not required, but it is recommended for coding p
 
 ## Logistics
 
-The event will take place in hybrid(virtual and in-person) mode using a combination of **video conferencing** (Zoom) for meetings and seminars, and **discussion forums** (Slack, Miro). Slack, Miro, and Zoom links will be shared upon registration. 
+The event will take place in hybrid(virtual and in-person) mode using a combination of **video conferencing** (Zoom) for meetings and seminars, and **discussion forums** (Slack, Miro).
+
+**[Link]((https://join.slack.com/t/mic-hackathon/shared_invite/zt-2t3ftu8vr-cnXAfhxZ1wdvkOzUo4_1~w)) to join slack group**.
+
+
+**[Link](https://miro.com/app/board/uXjVLN06K4Y=/?share_link_id=419763633861) to access miro board**. Edit access will be provided after joining the slack. 
+
 
 ## Prizes
 

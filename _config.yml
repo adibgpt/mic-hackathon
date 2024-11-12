@@ -23,7 +23,7 @@ header_pages:
   - agenda.md
   # - projects.md
   - submission.md
-  - resources.md
+  # - resources.md
   - videos-slides.md
   - about.md
 

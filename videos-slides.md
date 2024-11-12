@@ -5,6 +5,25 @@ menu_icon: film
 event_status:
  - soon
 ---
+# Resources:
+
+
+- Please give a try to our Microscope [simulator](https://github.com/pycroscopy/DTMicroscope). Head to the [notebooks](https://github.com/pycroscopy/DTMicroscope/tree/main/notebooks) section.
+
+- If you are new to python: Please see this medium [article](https://medium.com/@sergei2vk/the-new-language-of-science-how-to-learn-python-effectively-c8ce51012a64).
+ 
+
+
+# Teaser video to the hackathon (Just for fun).
+
+<ul class="grid">
+
+<li class="video" markdown="1">
+<iframe src="https://drive.google.com/file/d/1XkmJOb05aDNNBE2PI-QRvfk1q_mHnM9-/preview" width="960" height="540" allow="autoplay"></iframe>
+
+</li>
+
+</ul>
 
 # Hackathon launch video - 22nd Oct 2024!
 
@@ -118,6 +137,12 @@ University of Tennessee, Knoxville
 </li>
 
 </ul>
+
+
+
+
+
+
 
 
 

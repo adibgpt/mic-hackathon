@@ -4,10 +4,28 @@ menu_title: Submission
 menu_icon: cloud-arrow-up
 ---
 
-Project proposals are submitted by hackathon participants, where the submitter intends to lead that project and form a team (or work on it solo) during the hackathon. Some people might already have a team in mind while others might add team members after submitting the proposal. Likewise, there will be people who want to join an existing team instead of proposing their own project. The [slack channel - TBA] is the primary communication channel for brainstorming project ideas and forming teams.
 
-See below for the project topics and instructions on how to submit a project proposal.
+## Hackathon Navigation Guide:
 
+**[Link]((https://join.slack.com/t/mic-hackathon/shared_invite/zt-2t3ftu8vr-cnXAfhxZ1wdvkOzUo4_1~w)) to join slack group**.
+
+
+**[Link](https://miro.com/app/board/uXjVLN06K4Y=/?share_link_id=419763633861) to access miro board**. Edit access will be provided after joining the slack. 
+
+
+Q1. Already have a team and project idea?
+1. Head to Miro and add your team name, members, and project idea on the board. This helps everyone see what’s happening and encourages collaboration!
+
+Q2. Have a project idea but need teammates?
+1. Visit Miro and post your idea with a note that you’re seeking contributors! Be sure to include any specific skills or interests you’re looking for in teammates.
+
+Q2. Don’t have a team or project idea yet?
+1. Explore Miro – Check out existing projects and reach out to teams that interest you.
+2. Browse Project Suggestions – Take a look at our curated list of potential projects listed in below section.
+3. Post on Slack – Share your skills, interests, or the projects you’d like to join. Connect with others who may also be looking for teams!
+
+
+In case of any confusion please reach out to us on slack!
 ## Topics
 
 While a list of topics is provided, we are open to new ideas. If you have a project in mind that doesn't fit into one of the topics below, you are welcome and encouraged to submit a project proposal for it.
