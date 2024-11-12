@@ -69,6 +69,21 @@ menu_icon: globe2
     </tr>
     <tr>
         <td>
+            <img alt="Colin Ophus" src="https://raw.githubusercontent.com/KalininGroup/mic-hackathon/main/assets/CO.png">
+        </td>
+        <td>
+            <strong>Colin Ophus</strong>
+            <span class="profile-links">
+                <a title="Website" href=""><i class="bi bi-globe2"></i></a>
+                <a title="GitHub" href=""><i class="bi bi-github"></i></a>
+                <a title="Twitter" href=""><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>Stanford University, Stanford, CA
+            <br>Associate Professor
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img alt="Yongtao Liu" src="https://raw.githubusercontent.com/KalininGroup/mic-hackathon/main/assets/Yliu.png">
         </td>
         <td>
