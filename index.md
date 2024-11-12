@@ -30,11 +30,6 @@ The closing date for applications is December 16th 2024(Note: Only virtual sign 
             </dd>
         {% endif %}
 
-        <dt>{{ site.registration_closes_date }}</dt>
-        <dd>Applications close</dd>
-
-        <dt>{{ site.event_date }}</dt>
-        <dd>Hackathon date</dd>
     </dl>
 </div>
 
