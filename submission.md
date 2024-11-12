@@ -19,7 +19,7 @@ Q1. Already have a team and project idea?
 Q2. Have a project idea but need teammates?
 1. Visit Miro and post your idea with a note that you’re seeking contributors! Be sure to include any specific skills or interests you’re looking for in teammates.
 
-Q2. Don’t have a team or project idea yet?
+Q3. Don’t have a team or project idea yet?
 1. Explore Miro – Check out existing projects and reach out to teams that interest you.
 2. Browse Project Suggestions – Take a look at our curated list of potential projects listed in below section.
 3. Post on Slack – Share your skills, interests, or the projects you’d like to join. Connect with others who may also be looking for teams!
