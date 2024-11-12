@@ -8,7 +8,7 @@ event_status:
 # Resources:
 
 
-- Please give a try to our Microscope [simulator](https://github.com/pycroscopy/DTMicroscope). Head to the [notebooks](https://github.com/pycroscopy/DTMicroscope/tree/main/notebooks) section.
+- Please give a try to our Microscope [simulator](https://github.com/pycroscopy/DTMicroscope)(In development). Head to the [notebooks](https://github.com/pycroscopy/DTMicroscope/tree/main/notebooks) section.
 
 - If you are new to python: Please see this medium [article](https://medium.com/@sergei2vk/the-new-language-of-science-how-to-learn-python-effectively-c8ce51012a64).
  
