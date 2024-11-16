@@ -12,7 +12,7 @@ event_status:
 
 - If you are new to python: Please see this medium [article](https://medium.com/@sergei2vk/the-new-language-of-science-how-to-learn-python-effectively-c8ce51012a64).
  
- https://drive.google.com/file/d//view?usp=sharing
+
 
 
 # Teaser video to the hackathon (Just for fun).
