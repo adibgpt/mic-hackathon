@@ -27,7 +27,8 @@ event_status:
 
 </ul>
 
-# Hackathon Getting started zoom meeting recording - 15th Nov 2024
+
+# How to get started with contributing in the hackathon(Example problems, teaming, reaching out etc)? - zoom meeting recording - 15th Nov 2024
 <ul class="grid">
 
 <li class="video" markdown="1">
@@ -37,7 +38,7 @@ event_status:
 
 </ul>
 
-# Hackathon launch zoom meeting recording - 22nd Oct 2024!
+# Hackathon launch - zoom meeting recording - 22nd Oct 2024!
 <ul class="grid">
 
 <li class="video" markdown="1">
