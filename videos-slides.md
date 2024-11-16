@@ -28,7 +28,7 @@ event_status:
 </ul>
 
 
-# How to get started with contributing in the hackathon(Example problems, teaming, reaching out etc)? - zoom meeting recording - 15th Nov 2024
+# How to Get Started with Contributing in the Hackathon (Example Problems, Teaming, Reaching Out, etc.) - Zoom Meeting Recording - 15th Nov 2024
 <ul class="grid">
 
 <li class="video" markdown="1">
