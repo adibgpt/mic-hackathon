@@ -12,6 +12,7 @@ event_status:
 
 - If you are new to python: Please see this medium [article](https://medium.com/@sergei2vk/the-new-language-of-science-how-to-learn-python-effectively-c8ce51012a64).
  
+ https://drive.google.com/file/d//view?usp=sharing
 
 
 # Teaser video to the hackathon (Just for fun).
@@ -26,8 +27,17 @@ event_status:
 
 </ul>
 
-# Hackathon launch video - 22nd Oct 2024!
+# Hackathon Getting started zoom meeting recording - 15th Nov 2024
+<ul class="grid">
 
+<li class="video" markdown="1">
+<iframe src="https://drive.google.com/file/d/1YjN99xNqvdNIs-7zOzcCmPyWx8xaqivz/preview" width="960" height="540" allow="autoplay"></iframe>
+
+</li>
+
+</ul>
+
+# Hackathon launch zoom meeting recording - 22nd Oct 2024!
 <ul class="grid">
 
 <li class="video" markdown="1">
