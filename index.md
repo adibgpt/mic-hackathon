@@ -86,6 +86,9 @@ Will be announced soon!
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <a href="https://www.pnnl.gov/">
+        <img src="./assets/arems.jpg" alt="Pacific Northwest National Laboratory" style="width:340px;">
+    </a>
+    <a href="https://www.pnnl.gov/">
         <img src="./assets/pnnl_logo.jpg" alt="Pacific Northwest National Laboratory" style="width:200px;">
     </a>
     <a href="https://www.zyvexlabs.com/">
