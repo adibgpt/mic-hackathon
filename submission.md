@@ -7,7 +7,7 @@ menu_icon: cloud-arrow-up
 
 ## Hackathon Navigation Guide:
 
-**[Link]((https://join.slack.com/t/mic-hackathon/shared_invite/zt-2t3ftu8vr-cnXAfhxZ1wdvkOzUo4_1~w)) to join slack group**.
+**[Link](https://tiny.utk.edu/slack) to join slack group**.
 
 
 **[Link](https://miro.com/app/board/uXjVLN06K4Y=/?share_link_id=419763633861) to access miro board**. Edit access will be provided after joining the slack. 
