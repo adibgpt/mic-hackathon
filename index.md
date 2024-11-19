@@ -46,7 +46,7 @@ Prior programming experience is not required, but it is recommended for coding p
 
 The event will take place in hybrid(virtual and in-person) mode using a combination of **video conferencing** (Zoom) for meetings and seminars, and **discussion forums** (Slack, Miro).
 
-**[Link](tiny.utk.edu/slack) to join slack group**.
+**[Link](https://tiny.utk.edu/slack) to join slack group**.
 
 
 **[Link](https://miro.com/app/board/uXjVLN06K4Y=/?share_link_id=419763633861) to access miro board**. Edit access will be provided after joining the slack. 
