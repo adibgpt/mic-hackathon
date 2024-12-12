@@ -4,11 +4,6 @@ menu_title: Agenda
 menu_icon: clock
 ---
 
-## Nov 1
-
-
-1. Use [Form link coming soon] or send an email to [sergei2@utk.edu](mailto:sergei2@utk.edu) with the subject line "Microscopy Hackathon Project Submission".
-2. Ensure your data is open and remains open under an appropriate license.
 
 ## Hackathon Schedule: December 16–17
 
