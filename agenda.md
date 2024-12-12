@@ -20,7 +20,7 @@ menu_icon: clock
 - Austin Houston (Microscopy Society of America, Student Council)
 
 **9:50 AM EST** – Speaker: Rama K. Vasudevan (Oak Ridge National Laboratory)  
-*Topic: Ecosystems for Microscopy – The Nanocenters*
+*Topic: Ecosystems for Microscopy*
 
 **10:10 AM EST** – Speaker: Gerd Duscher (University of Tennessee, Knoxville)  
 *Topic: Joining the Hackathon – Projects, Organization, Deliverables, Awards*
