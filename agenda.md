@@ -10,30 +10,50 @@ menu_icon: clock
 1. Use [Form link coming soon] or send an email to [sergei2@utk.edu](mailto:sergei2@utk.edu) with the subject line "Microscopy Hackathon Project Submission".
 2. Ensure your data is open and remains open under an appropriate license.
 
-## Dec 16 - Dec 17
+## Hackathon Schedule: December 16–17
 
-### Day 1: Dec 16
+### Day 1: Monday, December 16
 
+**9:00 AM EST** – Welcome and Introduction  
+**9:05 AM EST** – Keynote Speaker: Sergei V. Kalinin (University of Tennessee, Knoxville)  
+*Topic: Machine Learning Across the Microscopy Workflow*
 
-| Time  | Activity |
-|-------|----------|
-| 09:00 | Welcome  |
-| 09:05 | Speaker: Sergei V. Kalinin (University of Tennessee, Knoxville) \| *ML across Microscopy Workflow* |
-| 09:45 | Speaker: Rama K. Vasudevan (Oak Ridge National Laboratory) \| *Ecosystems for Microscopy* |
-| 10:30 | Speaker: TBD  |
-| 11:15 | Speaker: TBD  |
+**9:25 AM EST** – Sponsor Presentations:  
+- Paolo Longo (ThermoFisher)  
+- Vasileios Maroulas (AI Tennessee)  
+- Kristin Massey (Institute for Advanced Materials & Manufacturing, UT Research)  
+- Austin Houston (Microscopy Society of America, Student Council)
 
+**9:50 AM EST** – Speaker: Rama K. Vasudevan (Oak Ridge National Laboratory)  
+*Topic: Ecosystems for Microscopy – The Nanocenters*
 
-### Day 2: Dec 17
+**10:10 AM EST** – Speaker: Gerd Duscher (University of Tennessee, Knoxville)  
+*Topic: Joining the Hackathon – Projects, Organization, Deliverables, Awards*
 
-| Time  | Activity |
-|-------|----------|
-| 09:00 | Welcome |
-| 09:10 | Breakout (Breakout Rooms A-G) |
-| 12:00 | Project showcase and judging (Poster Rooms A-B) |
-| 12:55 | Closing remarks and takeaways |
-| 13:00 | End |
+**10:30 AM EST** – Short Break & Last-Minute Team Formation
 
-### Post-hackathon
-Preparation of scholarly article
+**11:00 AM EST** – **Hackathon Launch!**  
+*Hacking continues throughout the day.*
+
+**Note:** Organizers will be online on Slack and Zoom from **9:00 AM–5:00 PM EST** on both Monday and Tuesday.
+
+---
+
+### Day 2: Tuesday, December 17
+
+*Hackathon continues throughout the day.*
+
+**5:00 PM EST** – Organizers remain available on Slack and Zoom until 5:00 PM EST.
+
+**11:59 PM EST** – **Final Submissions Due**
+
+**Note:** Organizers will be online on Slack and Zoom from **9:00 AM–5:00 PM EST**.
+
+---
+
+### Post-Hackathon Activities
+
+**Friday, December 20 at 4:00 PM EST** – Announcement of Hackathon Results and Winning Teams
+
+After the event, the manuscript will be integrated over the next 1–2 months and then shared with participants.
 
