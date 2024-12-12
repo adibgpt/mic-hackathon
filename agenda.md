@@ -14,8 +14,9 @@ menu_icon: clock
 *Topic: Machine Learning Across the Microscopy Workflow*
 
 **9:25 AM EST** – Sponsor Presentations:  
-- Paolo Longo (ThermoFisher)  
+- Antti Makinen (Office of Naval Research) - Tentative 
 - Vasileios Maroulas (AI Tennessee)  
+- Paolo Longo (ThermoFisher)  
 - Kristin Massey (Institute for Advanced Materials & Manufacturing, UT Research)  
 - Austin Houston (Microscopy Society of America, Student Council)
 
