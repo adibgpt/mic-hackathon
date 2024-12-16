@@ -31,7 +31,7 @@ menu_icon: clock
 **11:00 AM EST** – **Hackathon Launch!**  
 *Hacking continues throughout the day.*
 
-**Note:** Organizers will be online on Slack and Zoom from **9:00 AM–5:00 PM EST** on both Monday and Tuesday.
+**Note:** Organizers will be online on Slack and Zoom from **9:00 AM–5:00 PM EST**.
 
 ---
 
