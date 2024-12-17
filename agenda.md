@@ -35,6 +35,7 @@ menu_icon: clock
 
 ---
 
+
 ### Day 2: Tuesday, December 17
 
 *Hackathon continues throughout the day.*
@@ -42,6 +43,11 @@ menu_icon: clock
 **5:00 PM EST** – Organizers remain available on Slack and Zoom until 5:00 PM EST.
 
 **11:59 PM EST** – **Final Submissions Due**
+
+- Submission by 11:59 PM EST, December 17
+  - ~2 minute video about the project
+  - 1 page (max) text about the project
+  - Code - GitHub link or any other drive link
 
 **Note:** Organizers will be online on Slack and Zoom from **9:00 AM–5:00 PM EST**.
 
