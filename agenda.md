@@ -44,7 +44,7 @@ menu_icon: clock
 
 **11:59 PM EST** – **Final Submissions Due**
 
-- Submission by 11:59 PM EST, December 17 (email to sergei2@utk.edu)
+- Submission by 11:59 PM EST, December 17 (email to **sergei2@utk.edu**)
   - ~2 minute video about the project
   - 1 page (max) text about the project
   - Code - GitHub link or any other drive link
