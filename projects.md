@@ -5,7 +5,7 @@ menu_title: Projects
 menu_icon: briefcase
 ---
 
-| Team Number | Project Name         | Participants                              | Drive Link of Submission         |
+| Team Number | Project Name         | Participants                              | Drive Link of Submission (Readme file in it contains github links)        |
 |-------------|-----------------------|------------------------------------------|-----------------------------------|
 | 1           | Reward based Segmentation:  Phase Mapping of 2D Polycrystalline Pd-Se Phases  | Participant A (Affiliation 1,team lead), B (Affiliation 2), C (Affiliation 3) | [Drive Link 1](https://drive.google.com/drive/folders/11u5boZctCPljXoheYjtcpB103k_3yrVU?usp=drive_link)                |
 | 2           | Z-Sense: Recovery of inelastic scattering in diffraction patterns via deep learning| Participant D (Affiliation 4,team lead), E (Affiliation 5), F (Affiliation 6) | [Drive Link 2](https://drive.google.com/drive/folders/120M4D4Wvxrd1ccbEEoLPEP5esTvsr9lr?usp=drive_link)                |
