@@ -1,6 +1,29 @@
 ---
 layout: project_list
-title: Hackathon projects
+title: Hackathon Projects
 menu_title: Projects
 menu_icon: briefcase
 ---
+
+| Team Number | Project Name         | Participants                              | Drive Link of Submission         |
+|-------------|-----------------------|------------------------------------------|-----------------------------------|
+| 1           | Reward based Segmentation:  Phase Mapping of 2D Polycrystalline Pd-Se Phases  | Participant A (Affiliation 1), B (Affiliation 2), C (Affiliation 3) | [Drive Link 1](https://drive.google.com/drive/folders/11u5boZctCPljXoheYjtcpB103k_3yrVU?usp=drive_link)                |
+| 2           | Z-Sense: Recovery of inelastic scattering in diffraction patterns via deep learning| Participant D (Affiliation 4), E (Affiliation 5), F (Affiliation 6) | [Drive Link 2](https://drive.google.com/drive/folders/120M4D4Wvxrd1ccbEEoLPEP5esTvsr9lr?usp=drive_link)                |
+| 3           | Automating AFM through model-driven image segmentation and classification             | Participant G (Affiliation 7), H (Affiliation 8), I (Affiliation 9) | [Drive Link 3](https://drive.google.com/drive/folders/120EWOBBKqgJM6EBALVRNT9TZcAgNq9fG?usp=drive_link)                |
+| 4           | Crop Benchmark: Benchmarking Image Cropping Techniques and Data Augmentation for Structure-Property Prediction Using Machine Learning | Participant J (Affiliation 10), K (Affiliation 11), L (Affiliation 12) | [Drive Link 4](https://drive.google.com/drive/folders/120NI_yGSBbyG1z3frISwYR1k9Nj-Ro8l?usp=drive_link)               |
+| 5           | GANder: Ferroelastic–Ferroelectric Domains Observed by Image-to-Image Translation               | Participant M (Affiliation 13), N (Affiliation 14), O (Affiliation 15) | [Drive Link 5](https://drive.google.com/drive/folders/120aacIo92APMLo__jbaIO9FT1D_hqKcT?usp=drive_link)               |
+| 6           | Unmasking biomacromolecular conformational dynamics from 2D analysis of subdomains dynamic modes and molecular kinetics | Participant P (Affiliation 16), Q (Affiliation 17), R (Affiliation 18) | [Drive Link 6](https://drive.google.com/drive/folders/120czHNdUNsXaTI7IpSDXQWPvzwyEw1b4?usp=drive_link)               |
+| 7           | NA       | NA | NA               |
+| 8           | Micrography: Micrography is a python package with the goal of incorporating graph data for the analysis of electron microscope images.          | Participant V (Affiliation 22), W (Affiliation 23), X (Affiliation 24) | [Drive Link 8](https://drive.google.com/drive/folders/121hqbQhchUgT7ZlW-y-0xB9127HQWnid?usp=drive_link)               |
+| 9           | Tip Reconstruction   | Participant Y (Affiliation 25), Z (Affiliation 26), A1 (Affiliation 27) | [Drive Link 9](https://drive.google.com/drive/folders/121rRH1thsv63KOitS9MUpVNIb4pyTq8n?usp=drive_link)               |
+| 10         | GAeN: Automated Nanoparticle Detection in Microscope Images                 | Participant B1 (Affiliation 28), C1 (Affiliation 29), D1 (Affiliation 30) | [Drive Link 10](https://drive.google.com/drive/folders/121xV6cUYb8b5YpbL-Zd4x_mzMhlJxelG?usp=drive_link)              |
+| 11          | On-the-fly TEM Image Analysis for Nanoparticle Synthesis Characterization | Participant E1 (Affiliation 31), F1 (Affiliation 32), G1 (Affiliation 33) | [Drive Link 11](https://drive.google.com/drive/folders/122W1Jc_lMp2YVkgZCkhelgRPik-URXW9?usp=drive_link)              |
+| 12          | CT4Batt: A pipeline for Analyzing X-ray Chromatography Battery Images             | Participant H1 (Affiliation 34), I1 (Affiliation 35), J1 (Affiliation 36) | [Drive Link 12](https://drive.google.com/drive/folders/11uEy3iBJax9c5KWP2Fm15S3Xx9hqScYb?usp=drive_link)              |
+| 13         | AutoScriptCopilot        | Participant K1 (Affiliation 37), L1 (Affiliation 38), M1 (Affiliation 39) | [Drive Link 13](https://drive.google.com/drive/folders/123BAAJnAccojaPxiTgR-xil1Z8ZebpAZ?usp=drive_link)              |
+| 14          | AI-powered thermal mapping in EiTEx for single photon detection           | Participant N1 (Affiliation 40), O1 (Affiliation 41), P1 (Affiliation 42) | [Drive Link 14](https://drive.google.com/drive/folders/11uUNu9Lm58a15k82RgtB9wCduFshlhe0?usp=drive_link)              |
+| 15          | Unsupervised Classification of Ferroelectric Domains    | Participant Q1 (Affiliation 43), R1 (Affiliation 44), S1 (Affiliation 45) | [Drive Link 15](https://drive.google.com/drive/folders/11whoG89YanxYy883V6Eu2iaKMfubhOBz?usp=drive_link)              |
+| 16          | MicroscopyLLM-Bench: Benchmarking LLM capabilities for open-source microscopy datasets| Participant T1 (Affiliation 46), U1 (Affiliation 47), V1 (Affiliation 48) | [Drive Link 16](https://drive.google.com/drive/folders/11y4J0gsL85Tvg5T0dcjIHJFaPEsxb-1g?usp=drive_link)              |
+| 17          | Tip Artefact: Remove tip-shape induced artifacts in AFM images with machine learning | Participant W1 (Affiliation 49), X1 (Affiliation 50), Y1 (Affiliation 51) | [Drive Link 17](https://drive.google.com/drive/folders/11zFATLbXK5dMUNA_N1NVtuxIXLbDtFJP?usp=drive_link)              |
+| 18          | Oxidation: Mixed valence/oxidation state characterization from XAS/EELS using Neural-Networks          | Participant Z1 (Affiliation 52), A2 (Affiliation 53), B2 (Affiliation 54) | [Drive Link 18](https://drive.google.com/drive/folders/12-3emVjSO3OfH3UQS1uWFdRpQ4QV8iMT?usp=drive_link)              |
+| 19          |      NA                | NA | NA              |
+| 20  |  Structure Discovery through Image-to-Graph Machine Learning Model                         | Participant F2 (Affiliation 58), G2 (Affiliation 59), H2 (Affiliation 60) | [Drive Link 20](https://drive.google.com/drive/folders/120Bf0Muow8Xu9F5NEhDh9H0TT6GdatZt?usp=drive_link)              |
